@@ -1,0 +1,1 @@
+export { vendorRouter } from './vendor.router';
