@@ -20,13 +20,13 @@ export default class Bannerslider extends Component {
                 <Category />
                 <Slider {...settings}>
                     <div className="owl-item">
-                        <img src="img/banners/offer-1.jpg" alt="supermarket" />
+                        <img src="img/banners/offer-1.jpg" alt="managemyvenue" />
                     </div >
                     <div className="owl-item">
-                        <img src="img/banners/offer-2.jpg" alt="supermarket" />
+                        <img src="img/banners/offer-2.jpg" alt="managemyvenue" />
                     </div>
                     <div className="owl-item">
-                        <img src="img/banners/offer-3.jpg" alt="supermarket" />
+                        <img src="img/banners/offer-3.jpg" alt="managemyvenue" />
                     </div>
                 </Slider>
             </div>

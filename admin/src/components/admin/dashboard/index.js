@@ -254,7 +254,7 @@ export default class Home extends Component {
                 <footer className="py-4 bg-footer mt-auto">
                     <div className="container-fluid">
                         <div className="d-flex align-items-center justify-content-between small">
-                            <div className="text-muted-1">© 2020 <b>Eshop Supermarket</b>. by <a >Abhinashthemes</a></div>
+                            <div className="text-muted-1">© 2022 <b>Manage My Venue</b>. by <a >Prajwol shakya</a></div>
                             <div className="footer-links">
                                 <a href="/">Privacy Policy</a>
                                 <a href="/">Terms &amp; Conditions</a>
